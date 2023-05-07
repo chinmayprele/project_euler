@@ -6,4 +6,4 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 ## Answers
 
-1. `233168` <- Correct
+1. `233168` &larr; Correct

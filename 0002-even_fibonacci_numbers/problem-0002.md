@@ -8,4 +8,4 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 ## Answers
 
-1. `4613732` <- Correct
+1. `4613732` &larr; Correct
