@@ -7,3 +7,4 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 ## Answers 
 
 1. `90909` &larr; Wrong
+2. `906609` &larr; Correct

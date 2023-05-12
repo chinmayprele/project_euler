@@ -10,17 +10,11 @@ def is_palindrome( num ):
 
 
 palindrome = None
+palindrome_set = set()
 
-for i in range( 999, 1, -1 ):
-	found = False
-	for j in range( 999, 1, -1 ):
+for i in range( 999, 100, -1 ):
+	for j in range( 999, 100, -1 ):
 		if is_palindrome( i*j ):
-			print( i )
-			print( j )
-			print( i*j )
-			found = True
-		break
-	if found:
-		break
+			palindrome_set.add( i*j )
 
-
+print( max(palindrome_set) )
