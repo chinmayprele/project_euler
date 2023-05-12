@@ -1,0 +1,1 @@
+# [Solving the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> ](https://projecteuler.net/problem=157) \n\n\n## Answers \n\n1. &larr;
