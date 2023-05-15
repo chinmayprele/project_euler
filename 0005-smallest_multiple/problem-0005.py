@@ -1,10 +1,16 @@
-all_nums = set()
+from tqdm import tqdm as tqdm
 
-def check_all_modulo( num, first_mod, last_mod ):
-	
+def check_divisible( num, start, end ):
+	for i in range( start, end+1 ):
+		if num % i != 0:
+			return( False )
+	return( True )
 
-for num in range( int(1e5) ):
-	for modulo in range( 1, 21 ):
-		if num % modulo != 0:
-			break
+number = None
 
+for i in tqdm( range( 1, int( 1e10 ) ) ):
+	if check_divisible( i, 1, 20 ) == True:
+		number = i
+		break
+
+print( number )

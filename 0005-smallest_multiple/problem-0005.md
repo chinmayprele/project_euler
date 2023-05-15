@@ -6,4 +6,4 @@ What is the smallest positive number that is evenly divisible by all of the numb
 
 ## Answers
 
-1. &larr;
+1. `232792560` &larr; Correct
