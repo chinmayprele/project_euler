@@ -6,7 +6,9 @@ Find the sum of all the primes below two million.
 
 ## Answers 
 
-1. &larr;
+1. `142913828923` &larr; Incorrect
+	- Did not account for _1_
+1. `142913828922` &larr; Correct
 
 ## Notes
 
