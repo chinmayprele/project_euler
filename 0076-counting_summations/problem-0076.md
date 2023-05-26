@@ -15,3 +15,10 @@ How many different ways can one hundred be written as a sum of at least two posi
 
 1. `190569291` &larr; Correct
 	- From [here](https://codereview.stackexchange.com/questions/219250/project-euler-76-counting-summations).
+
+## Learning
+
+- [ ] Identify the issue
+- [ ] Make the issue smaller (decrease the number from 5 &rarr; 4)
+- [ ] Identify the patter
+- [ ] Work on top of the pattern (assuming it will hold)
