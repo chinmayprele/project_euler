@@ -31,4 +31,6 @@ What is the greatest product of four adjacent numbers in the same direction (up,
 
 ## Answers
 
-1. &larr;
+1. `51267216` &larr; Incorrect; did kmer identification wrong initially
+1. `70600674` &larr; Correct
+
